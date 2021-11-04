@@ -14,7 +14,7 @@
 		D81D1E9927320AAD00A03D42 /* TextSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81D1E9827320AAD00A03D42 /* TextSamples.swift */; };
 		D81D1E9F2732325B00A03D42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D81D1E9E2732325B00A03D42 /* Assets.xcassets */; };
 		D81D1EA52732325C00A03D42 /* SwiftUIWatchSamples WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = D81D1EA42732325C00A03D42 /* SwiftUIWatchSamples WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		D81D1EAA2732325C00A03D42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81D1EA92732325C00A03D42 /* ContentView.swift */; };
+		D81D1EAA2732325C00A03D42 /* GaugeSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81D1EA92732325C00A03D42 /* GaugeSample.swift */; };
 		D81D1EAC2732325C00A03D42 /* SwiftUISamplesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81D1EAB2732325C00A03D42 /* SwiftUISamplesApp.swift */; };
 		D81D1EAE2732325C00A03D42 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81D1EAD2732325C00A03D42 /* ComplicationController.swift */; };
 		D81D1EB02732325D00A03D42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D81D1EAF2732325D00A03D42 /* Assets.xcassets */; };
@@ -74,7 +74,7 @@
 		D81D1E9C2732325800A03D42 /* SwiftUIWatchSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIWatchSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D81D1E9E2732325B00A03D42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D81D1EA42732325C00A03D42 /* SwiftUIWatchSamples WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "SwiftUIWatchSamples WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D81D1EA92732325C00A03D42 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D81D1EA92732325C00A03D42 /* GaugeSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GaugeSample.swift; sourceTree = "<group>"; };
 		D81D1EAB2732325C00A03D42 /* SwiftUISamplesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISamplesApp.swift; sourceTree = "<group>"; };
 		D81D1EAD2732325C00A03D42 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
 		D81D1EAF2732325D00A03D42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -151,7 +151,7 @@
 		D81D1EA82732325C00A03D42 /* SwiftUIWatchSamples WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
-				D81D1EA92732325C00A03D42 /* ContentView.swift */,
+				D81D1EA92732325C00A03D42 /* GaugeSample.swift */,
 				D81D1EAB2732325C00A03D42 /* SwiftUISamplesApp.swift */,
 				D81D1EAD2732325C00A03D42 /* ComplicationController.swift */,
 				D81D1EAF2732325D00A03D42 /* Assets.xcassets */,
@@ -310,7 +310,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D81D1EAA2732325C00A03D42 /* ContentView.swift in Sources */,
+				D81D1EAA2732325C00A03D42 /* GaugeSample.swift in Sources */,
 				D81D1EAC2732325C00A03D42 /* SwiftUISamplesApp.swift in Sources */,
 				D81D1EAE2732325C00A03D42 /* ComplicationController.swift in Sources */,
 			);

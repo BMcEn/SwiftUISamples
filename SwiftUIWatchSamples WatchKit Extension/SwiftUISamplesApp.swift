@@ -12,7 +12,7 @@ struct SwiftUISamplesApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationView {
-                ContentView()
+                GaugeSample()
             }
         }
     }
