@@ -20,6 +20,7 @@
 		D81D1EB02732325D00A03D42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D81D1EAF2732325D00A03D42 /* Assets.xcassets */; };
 		D81D1EB32732325D00A03D42 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D81D1EB22732325D00A03D42 /* Preview Assets.xcassets */; };
 		D81D1EB72732325D00A03D42 /* SwiftUIWatchSamples.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = D81D1E9C2732325800A03D42 /* SwiftUIWatchSamples.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		D8A8C3B72733A2EA007BA96F /* ShapeSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3B62733A2EA007BA96F /* ShapeSamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		D81D1EAF2732325D00A03D42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D81D1EB22732325D00A03D42 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D81D1EB42732325D00A03D42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8A8C3B62733A2EA007BA96F /* ShapeSamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeSamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				D81D1E8A27320A8000A03D42 /* SwiftUISamplesApp.swift */,
 				D81D1E8C27320A8000A03D42 /* ContentView.swift */,
 				D81D1E9827320AAD00A03D42 /* TextSamples.swift */,
+				D8A8C3B62733A2EA007BA96F /* ShapeSamples.swift */,
 				D81D1E8E27320A8300A03D42 /* Assets.xcassets */,
 				D81D1E9027320A8300A03D42 /* Preview Content */,
 			);
@@ -303,6 +306,7 @@
 				D81D1E9927320AAD00A03D42 /* TextSamples.swift in Sources */,
 				D81D1E8D27320A8000A03D42 /* ContentView.swift in Sources */,
 				D81D1E8B27320A8000A03D42 /* SwiftUISamplesApp.swift in Sources */,
+				D8A8C3B72733A2EA007BA96F /* ShapeSamples.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
