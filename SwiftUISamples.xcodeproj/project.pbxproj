@@ -22,6 +22,7 @@
 		D81D1EB72732325D00A03D42 /* SwiftUIWatchSamples.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = D81D1E9C2732325800A03D42 /* SwiftUIWatchSamples.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		D8A8C3B72733A2EA007BA96F /* ShapeSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3B62733A2EA007BA96F /* ShapeSamples.swift */; };
 		D8A8C3B92733A8AB007BA96F /* ColorSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3B82733A8AB007BA96F /* ColorSamples.swift */; };
+		D8A8C3BD2735DA10007BA96F /* GradientSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3BC2735DA10007BA96F /* GradientSamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		D81D1EB42732325D00A03D42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D8A8C3B62733A2EA007BA96F /* ShapeSamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeSamples.swift; sourceTree = "<group>"; };
 		D8A8C3B82733A8AB007BA96F /* ColorSamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSamples.swift; sourceTree = "<group>"; };
+		D8A8C3BC2735DA10007BA96F /* GradientSamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientSamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				D81D1E9827320AAD00A03D42 /* TextSamples.swift */,
 				D8A8C3B62733A2EA007BA96F /* ShapeSamples.swift */,
 				D8A8C3B82733A8AB007BA96F /* ColorSamples.swift */,
+				D8A8C3BC2735DA10007BA96F /* GradientSamples.swift */,
 				D81D1E8E27320A8300A03D42 /* Assets.xcassets */,
 				D81D1E9027320A8300A03D42 /* Preview Content */,
 			);
@@ -311,6 +314,7 @@
 				D81D1E8D27320A8000A03D42 /* ContentView.swift in Sources */,
 				D81D1E8B27320A8000A03D42 /* SwiftUISamplesApp.swift in Sources */,
 				D8A8C3B72733A2EA007BA96F /* ShapeSamples.swift in Sources */,
+				D8A8C3BD2735DA10007BA96F /* GradientSamples.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
