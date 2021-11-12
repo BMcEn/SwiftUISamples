@@ -26,6 +26,7 @@
 		D8A8C3BF2735DE86007BA96F /* IconSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3BE2735DE86007BA96F /* IconSamples.swift */; };
 		D8A8C3C12735E2C9007BA96F /* ImageSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3C02735E2C9007BA96F /* ImageSamples.swift */; };
 		D8A8C3C5273BAB43007BA96F /* InitSamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3C4273BAB43007BA96F /* InitSamples.swift */; };
+		D8A8C3C7273E20F4007BA96F /* GridSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A8C3C6273E20F4007BA96F /* GridSample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -92,6 +93,7 @@
 		D8A8C3BE2735DE86007BA96F /* IconSamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconSamples.swift; sourceTree = "<group>"; };
 		D8A8C3C02735E2C9007BA96F /* ImageSamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSamples.swift; sourceTree = "<group>"; };
 		D8A8C3C4273BAB43007BA96F /* InitSamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitSamples.swift; sourceTree = "<group>"; };
+		D8A8C3C6273E20F4007BA96F /* GridSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridSample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 				D8A8C3B62733A2EA007BA96F /* ShapeSamples.swift */,
 				D8A8C3B82733A8AB007BA96F /* ColorSamples.swift */,
 				D8A8C3C4273BAB43007BA96F /* InitSamples.swift */,
+				D8A8C3C6273E20F4007BA96F /* GridSample.swift */,
 				D8A8C3BC2735DA10007BA96F /* GradientSamples.swift */,
 				D8A8C3BE2735DE86007BA96F /* IconSamples.swift */,
 				D8A8C3C02735E2C9007BA96F /* ImageSamples.swift */,
@@ -319,6 +322,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8A8C3B92733A8AB007BA96F /* ColorSamples.swift in Sources */,
+				D8A8C3C7273E20F4007BA96F /* GridSample.swift in Sources */,
 				D81D1E9927320AAD00A03D42 /* TextSamples.swift in Sources */,
 				D8A8C3BF2735DE86007BA96F /* IconSamples.swift in Sources */,
 				D81D1E8D27320A8000A03D42 /* ContentView.swift in Sources */,
